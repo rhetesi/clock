@@ -20,12 +20,13 @@ body {
 }
 
 @font-face {
-    font-family: "Cyberverse";
-    src: url("/assets/fonts/Cyberverse/Cyberverse.otf")
+    font-family: Cyberverse;
+        src: url("/assets/fonts/Cyberverse/Cyberverse.otf")
 }
 
 .clock__display {
     color: dodgerblue;
-    font-family: "Cyberverse";
-    font-size:  2rem;
+    font-family: Cyberverse;
+    font-size: 2rem;
 }
+
