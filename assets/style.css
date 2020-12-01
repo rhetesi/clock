@@ -21,7 +21,7 @@ body {
 
 @font-face {
     font-family: Cyberverse;
-        src: url("/assets/fonts/Cyberverse/Cyberverse.otf")
+    src: url("/assets/fonts/Cyberverse/Cyberverse.otf")
 }
 
 .clock__display {
